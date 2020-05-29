@@ -1,0 +1,111 @@
+FatorServico;10h;24h
+Agitadores/Líquidos ;1;1.25
+Agitadores/Misturas de polpa;1.25;1.5
+Agitadores/Semilíquidos de densidade variável ;1.25;1.5
+Alimentadores/Alimentadores helicoidais ;1.25;1.5
+Alimentadores/Alimentadores recíprocos;1.75;2
+Alimentadores/Transportadores(esteiras e correias);1.25;1.5
+Bombas/ Centrífugas;1;1.25
+Bombas/Dupla ação multicilíndrica;1.25;1.5
+Bombas/Recíprocas de descargas livres;1.25;1.5
+Bombas/Rotativas de engrenagens ou lobos;1;1.25
+Britadores/Pedra e minérios ;1.75;1
+Cervejarias e Destilarias/Cozinhadores-serviço contínuo;1;1.25
+Cervejarias e Destilarias/Tachos de fermentação -serviço contínuo;1;1.25
+Cervejarias e Destilarias/Misturadores;1;1.25
+Clarificadores;1;1.25
+Classificadores;1;1.25
+Dragas/Guinchos. transportadores e bombas;1.25;1.5
+Dragas/Cabeçotes rotativos e peneiras;1.75;2
+Eixo de Transmissão/Cargas uniformes;1;1.25
+Eixo de Transmissão/Cargas pesadas;1.25;1.5
+Elevadores/Caçambas-carga uniforme;1;1.25
+Elevadores/Caçambas-carga pesadas;1.25;1.5
+Elevadores/Elevadores de Carga;1.25;1.5
+Embobinadeiras/Metais;1.25;1.5
+Embobinadeiras/Papel;1;1.25
+Embobinadeiras/Têxtil;1.25;1.5
+Enlatadoras e Engarrafadoras;1;1.25
+Escadas Rolantes;1;1.25
+Fábrica de Cimento/Britadores de mandíbulas;1.75;2
+Fábrica de Cimento/Fornos rotativos;1.75;1.5
+Fábrica de Cimento/Moinho de bolas e rolos;1.75;1.5
+Fábrica de Papel/Agitadores (misturadores);1.25;1.5
+Fábrica de Papel/Alvejadores;1;1.25
+Fábrica de Papel/Batedores e despolpadores;1.25;1.5
+Fábrica de Papel/Calandras;1.25;1.8
+Fábrica de Papel/Hipercalandras;1.75;3
+Fábrica de Papel/Cilindros;1.25;1.5
+Fábrica de Papel/Descascadores mecânicos e hidráulicos;1.25;1.8
+Fábrica de Papel/Tambores e Descascadores;1.75;2
+Fábrica de Papel/Emboinadores;1;1.25
+Fábrica de Papel/Esticadores de feltro;1.25;1.5
+Fábrica de Papel/Jardanas;1.75;2
+Fábrica de Papel/Prensas ;1;1.28
+Fábrica de Papel/Secadoras;1.25;1.8
+Geradores;1;1.25
+Guinchos e Gruas/Cargas uniformes;1.25;1.8
+Guinchos e Gruas/Cargas pesadas;1.75;2
+Indústria Alimentícia/Cozinhadores de cereias;1;1.25
+Indústria Alimentícia/Enlatadoras e engarrafadoras;1;1.25
+Indústria Alimentícia/Misturadores de massa ;1.25;1.8
+Indústria Alimentícia/Moedores de Carne;1.25;1.8
+Indústria Alimentícia/Picadores;1.25;1.8
+Indústria de Borracha e Plástico/Calandras;;1.8
+Indústria de Borracha e Plástico/Equipamentos de Laboratório;1.25;1.8
+Indústria de Borracha e Plástico/Extrusoras (entubadoras);;1.5
+Moinhos/Moinhos cilíndricos;;1.5
+Moinhos/2 em linha;;1.5
+Moinhos/3 em linha;;1.25
+Moinhos/Refinadores;;1.8
+Moinhos/Trituradores e misturadores;;2
+Indústria Madereira/Alimentadoras de plaina;1.25;1.5
+Indústria Madereira/Serras;1.5;1.75
+Indústria Madereira/Tombadores despolpadores;1.75;2
+Indústria Madereira/Transportadores de tora;1.75;2
+Indústra Têxtil/Calandras;1.25;1.5
+Indústra Têxtil/Cordas;1.25;1.5
+Indústra Têxtil/Filatórios e retorcedeiras;1.25;1.5
+Indústra Têxtil/Maçaroqueiras;1.25;1.5
+Indústra Têxtil/Máquinas de tinturaria;1.25;1.5
+Indústria Metalúrgica/Cortadores de chapa;1.25;1.5
+Indústria Metalúrgica/Embobinadeiras;1.25;1.5
+Indústria Metalúrgica/Laminadores ;1.25;1.5
+Indústria Metalúrgica/Trefilas;1.25;1.5
+Indústria Metalúrgica/Viradeiras;1.75;2
+Máquinas Operatrizes/Acionamento principal-cargas pesadas;1.75;2
+Máquinas Operatrizes/Acionamento principal-cargas uniformes;1.25;1.5
+Máquinas Operatrizes/Acionamento auxiliar;1;1.25
+Máquinas Operatrizes/Prensas;1.75;2
+Misturadores/;1.25;1.5
+Misturadores/Betoneiras;1.25;1.5
+Misturadores/Líquidos de densidade constante;1;1.25
+Misturadores/Líquidos de densidade variável;1.25;1.5
+Misturadores/Líquidos para borracha;;2
+Misturadores/Líquidos para polpa de painel;1.25;1.5
+Moinhos/De bolas e rolos;1.25;1.5
+Moinhos/De martelos;1.75;2
+Moinhos/Para areia;1.25;1.5
+Olarias e Cerâmica/Estrusoras e misturadores;1.25;1.5
+Olarias e Cerâmica/Prensas de tijolos e ladrilho;1.75;2
+Pontes rolantes/Acionamento do carro e da ponte;1.75;2
+Pontes rolantes/Acionamento do guincho;1;1.25
+Refinaria de Açúcar/Centrífugas;1.25;1.5
+Refinaria de Açúcar/Moendas;1.5;2
+Refinaria de Açúcar/Facas de cana;;1.5
+Refinaria de Petróleo/Bombas;1;1.25
+Refinaria de Petróleo/Equipamento em geral;1.25;1.5
+Roscas Transportadoras/Cargas uniformes;1;1.25
+Roscas Transportadoras/Cargas pesadas e alimentadores;1.25;1.5
+Secadores e Resfriadores rotativos;1.25;1.5
+Telas e Peneiras/Filtragem de ar;1;1.25
+Telas e Peneiras/Para água - esteiras;1;1.25
+Telas e Peneiras/Recíprocas;1.25;1.5
+Telas e Peneiras/Rotativas para cascalho;1.25;1.5
+Torres de Refrigeração-Transportadores/Cargas uniformes;1.9;1.25
+Torres de Refrigeração-Transportadores/Cargas pesadas e descontínuas;1.25;1.5
+Torres de Refrigeração-Transportadores/Recíprocos e vibratórios;1.75;2
+Tratamento de Água e Esgoto/Pulverizadores. alimentadores. bombas. coletores de lama e detritos;1;1.25
+Tratamento de Água e Esgoto/Filtros mexedores e peneiras;1.25;1.5
+Ventiladores/Centrífugos;1;1.25
+Ventiladores/Outros tipos;1.25;1.5
